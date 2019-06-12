@@ -1,0 +1,21 @@
+body {
+			font-family: 'Nunito', sans-serif;
+			font-weight: bold;
+			background-image: url("https://image.freepik.com/free-photo/abstract-white-color-canvas-wallpaper-textures-surface_74190-6385.jpg");
+		}
+
+		.jumbotron {
+			padding-top: 25%;
+			background: url("https://images.unsplash.com/photo-1559650956-f5ce6186cc4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1518&q=80") no-repeat;
+			background-size: cover;
+			background-position: center;
+			text-shadow: 0px 4px 3px rgba(0,0,0,0.5),
+	             0px 8px 13px rgba(0,0,0,0.2),
+	             0px 18px 23px rgba(0,0,0,0.2);
+	             color: white;
+		}
+		#contact {
+			background: url("https://images.unsplash.com/photo-1546449993-d15627692071?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80") no-repeat;
+			background-size: cover;
+			background-position: center;
+		}
